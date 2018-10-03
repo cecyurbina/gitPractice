@@ -4,6 +4,6 @@ proyecto curso git
 
 Colaboradores:
 
-Cecy, Armando
+Cecilia Urbina, Armando
 
 Curso git
